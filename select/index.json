@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ライツオフ",
+  "base_artist": "TAKU INOUE",
+  "createdAt": "2025-12-06T17:32:30.815585Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "TAKU INOUE「ライツオフ (feat. なとり)」Music Video",
+      "artist": "TAKU INOUE",
+      "has_synced": true,
+      "path": "select/01_TAKU_INOUE「ライツオフ_(feat._なとり)」Music_Video_TAKU_INOUE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ライツオフ (feat. なとり)",
+      "artist": "TAKU INOUE",
+      "has_synced": true,
+      "path": "select/02_ライツオフ_(feat._なとり)_TAKU_INOUE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ライツオフ (feat. なとり)",
+      "artist": "TAKU INOUE",
+      "has_synced": false,
+      "path": "select/pl_01_ライツオフ_(feat._なとり)_TAKU_INOUE.txt"
+    }
+  ]
+}
